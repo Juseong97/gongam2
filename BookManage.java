@@ -11,7 +11,7 @@ public class BookManage implements Common {
     int sixSix = 66;
     int sevenSeven=77;
     int eightEight=88;
-    int nineNine=99;
+	String home = "집에 가고싶은 사람 그게 바로 나에요";
     }
 
     @Override
