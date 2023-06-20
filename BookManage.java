@@ -6,6 +6,7 @@ public class BookManage implements Common {
 
     @Override
     public void check(String bookNm) {
+	int fiveFive = 55;
 
     }
 
