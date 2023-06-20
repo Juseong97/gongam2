@@ -9,6 +9,7 @@ public class BookManage implements Common {
 	int fiveFive = 55;
     int sixSix = 66;
     int sevenSeven=77;
+    int eightEight=88;
     }
 
     @Override

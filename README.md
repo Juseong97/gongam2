@@ -1,2 +1,2 @@
 # Juseong97 Repository READEME version v1.0
-dev branch v 1.1 - modified fy juseong
+dev branch v 1.2 - modified fy juseong
